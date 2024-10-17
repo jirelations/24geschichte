@@ -1,92 +1,85 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
+,1,17.10,2024-10-17-1.md,Einführung,Vorstellung,Wie hat die Evolutionstheorie die Religionswissenschaft ausgelöst?,1. Einführung: Vorstellung,1,cover-2050.jpg,1-Vorstellung,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,31.10,2024-10-31-2.md,Ursprünge,Edward Tylor,Wie entwickelt sich Kultur?,2. Ursprünge: Edward Tylor,2,boudha-stupa-kathmandu-2050.jpg,2-Edward-Tylor,tylor11Animismus1873,,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,07.11,2024-11-07-3.md,Ursprünge,James Frazer,Was hat Magie mit Religion zu tun?,3. Ursprünge: James Frazer,3,golden-bough-2050.jpg,3-James-Frazer,frazerIVZaubereiUnd1977,"Frazers Versuch, alle Religionen auf eine gemeinsame Wurzel zurückzuführen, als andauernd prägend wahrzunehmen.",[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,14.11,2024-11-14-4.md,Ursprünge,Aby Warburg,Wie lässt sich Religion anhand von Symbolen verstehen?,4. Ursprünge: Aby Warburg,4,warbug-avec-masque-katchina1.jpg,4-Aby-Warburg,warburgSchlangenritualReisebericht,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,5,21.11,2024-11-21-5.md,Paradigmen (Weltreligionen),Parlament der Weltreligionen,Wie entstand der Begriff Weltreligion?,5. Paradigmen (Weltreligionen): Parlament der Weltreligionen,5,stained-glass-spiral-2050.jpg,5-Parlament-der-Weltreligionen,masuzawaPrefaceIntroduction2005,"Der Begriff ""Weltreligionen"" im europäischen Diskurs des 19. und 20. Jahrhunderts verorten.",[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,28.11,2024-11-28-6.md,Paradigmen (Phänomenologie),Rudolf Otto,Was ist das Heilige?,6. Paradigmen (Phänomenologie): Rudolf Otto,6,06_Vishnu_BhagavadGita-upscaled.jpg,6-Rudolf-Otto,ottoHeiligeUeberIrrationale1926,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,7,05.12,2024-12-05-7.md,Paradigmen (Phänomenologie),Mircea Eliade,Wie unterscheidet sich das Heilige vom Profanen?,7. Paradigmen (Phänomenologie): Mircea Eliade,7,mandala-2050.jpg,7-Mircea-Eliade,eliadeEinleitung2016,Phänomenologische Ansätze am Beispiel von Eliades Konzeption des „Heiligen und des Profanen“ erkennen und anwenden.,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,12.12,2024-12-12-8.md,Paradigmen (Strukturfunktionalismus),Mary Douglas,Welche Rolle spielen Reinheit und Gefährdung?,8. Paradigmen (Strukturfunktionalismus): Mary Douglas,8,leaf-dirt-2050.jpg,8-Mary-Douglas,"[douglasAbominationsLeviticus2002, douglasGreuelDrittenBuchs1985]",Strukturfunktionalismus am Beispiel von israelitischen Reinheitsgeboten als religionswissenschaftlicher Ansatz anwenden.,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,19.12,2024-12-19-9.md,Paradigmen (Strukturfunktionalismus),Victor und Edith Turner,Wie gehen Menschen symbolisch miteinander um?,9. Paradigmen (Strukturfunktionalismus): Victor und Edith Turner,9,zambia-sunset-2050.jpg,9-Victor-und-Edith-Turner,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,16.01,2025-01-16-10.md,Paradigmen (Ethnographie),Clifford Geertz,Wie lassen sich Rituale beschreiben?,10. Paradigmen (Ethnographie): Clifford Geertz,10,rooster-2050.jpg,10-Clifford-Geertz,"[geertzThickDescriptionInterpretive1973, geertzDichteBeschreibungBemerkungen2003]",,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,23.01,2025-01-23-11.md,Entzauberung,Max Weber,Welche Konsequenzen haben Weltanschauungen für die Wirtschaft (und umgekehrt)?,11. Entzauberung: Max Weber,11,ny-stock-exchange-2050.jpg,11-Max-Weber,wenzelHandoutMaxWeber2024,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+,12,30.01,2025-01-30-12.md,Entzauberung,Pierre Bourdieu,Wie wird auf dem religiösen Marktplatz gehandelt?,12. Entzauberung: Pierre Bourdieu,12,praying-hands-2050.jpg,12-Pierre-Bourdieu,bourdieuFunktionsweiseReligioesenFeldes2000,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
+,13,06.02,2025-02-06-13.md,Entzauberung,Jacques Derrida,Wie wird Religion dekonstruiert?,13. Entzauberung: Jacques Derrida,13,demolition.jpg,13-Jacques-Derrida,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
+,14,13.02,2025-02-13-14.md,Abschluss,Rückblick & Ausblick,Wie sieht die Zukunft von Religion und Religionswissenschaft aus?,14. Abschluss: Rückblick & Ausblick,14,decision.jpg,14-Rückblick-Ausblick,,,[14],"---
 layout: post
 session: 14
 tags: [14]
-level: overview
----"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
-layout: post
-session: 15
-tags: [15]
 level: overview
 ---"
