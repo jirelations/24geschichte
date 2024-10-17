@@ -19,7 +19,8 @@
     </g>
   </g>
   <text style="font-family: 'Bradley Hand'; font-size: 16px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="14.419" y="38.553">Name:</text>
-  <text style="font-family: 'Bradley Hand'; font-size: 16px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="14.419" y="65.954">Interest in this class:</text>
-  <text style="font-family: 'Bradley Hand'; font-size: 16px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="14.419" y="243.322">(Optional) Interests outside this class/non-academic: </text>
-  <text style="fill: rgb(183, 183, 183); font-family: Tinos; font-size: 23px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="413.42" y="30.938">(for me)</text>
+  <text style="font-family: 'Bradley Hand'; font-size: 16px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="14.419" y="65.954" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 7.214413599854197e-8, 24.977482706935355)">Warum hier?</text>
+  <text style="font-family: 'Bradley Hand'; font-size: 16px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="14.419" y="243.322">Interessen außerhalb der Uni:</text>
+  <text style="fill: rgb(183, 183, 183); font-family: Tinos; font-size: 23px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="395.42" y="30.938">(für mich)</text>
+  <text style="font-family: 'Bradley Hand'; font-size: 16px; paint-order: fill; stroke-linecap: square; stroke-miterlimit: 10; white-space: pre; text-decoration: none solid rgba(0, 0, 0, 0.8);" x="14.419" y="65.954">Studiengang:</text>
 </svg>
