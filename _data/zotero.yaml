@@ -470,6 +470,28 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D165453
 
+- id: frazerAftermathSupplementGolden1936
+  accessed:
+    - year: 2024
+      month: 11
+      day: 7
+  author:
+    - family: Frazer
+      given: James George
+  call-number: '25677'
+  citation-key: frazerAftermathSupplementGolden1936
+  event-place: London
+  issued:
+    - year: 1936
+  language: eng
+  number-of-pages: '515'
+  publisher: Macmillan
+  publisher-place: London
+  source: Internet Archive
+  title: 'Aftermath: A supplement to the Golden Bough'
+  type: book
+  URL: http://archive.org/details/aftermathasupple025677mbp
+
 - id: frazerGoldeneZweigStudie1977
   author:
     - family: Frazer
@@ -1590,11 +1612,6 @@ references:
   URL: >-
     https://academic-oup-com.proxy.ub.uni-frankfurt.de/socrel/article/71/1/133/1623933
   volume: '71'
-
-- id: Tags
-  citation-key: Tags
-  title: Tags
-  type: document
 
 - id: tremlUberlegungenEntstehungBegriff2018
   abstract: >-
