@@ -852,6 +852,25 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=gQSYewA03BU
 
+- id: johnsonMemoryMetaphorAby
+  abstract: >-
+    The work of German cultural theorist and art historian AbyWarburg
+    (1866-1929) has had a lasting effect on how we think aboutimages. This book
+    is the first in En...
+  accessed:
+    - year: 2024
+      month: 11
+      day: 14
+  author:
+    - family: Johnson
+      given: Christopher D.
+  citation-key: johnsonMemoryMetaphorAby
+  collection-title: 'Signale: Modern German Letters, Cultures, and Thought'
+  language: en
+  title: Memory, Metaphor, and Aby Warburg's Atlas of Images
+  type: book
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/10.7591/j.ctt2jbph1
+
 - id: karsteinPierreBourdieuReligioese2019
   accessed:
     - year: 2024
@@ -915,6 +934,32 @@ references:
   publisher-place: München
   title: Die Gegenwart der ursprünglichen Religion in der modernen Zivilisation
   type: chapter
+
+- id: kochAufSpurenAby2024
+  abstract: >-
+    Kunstwissenschaftler Aby Warburg verletzte Bedürfnis der Pueblo Völker nach
+    Geheimhaltung ihres Wissens
+  accessed:
+    - year: 2024
+      month: 11
+      day: 14
+  citation-key: kochAufSpurenAby2024
+  container-title: Hörspielportal
+  director:
+    - family: Koch
+      given: Egon
+  issued:
+    - year: 2024
+      month: 2
+      day: 2
+  language: de
+  publisher: Deutschlandfunk
+  title: >-
+    Auf den Spuren von Aby Warburg bei den Pueblo-Gesellschaften: Der
+    Eindringling mit der Katsina Maske
+  type: broadcast
+  URL: >-
+    https://www.hoerspielundfeature.de/der-eindringling-mit-der-katsina-maske-auf-den-spuren-von-aby-warburg-dlf-3647e594-100.html
 
 - id: korffKasten117Aby2007
   citation-key: korffKasten117Aby2007
@@ -1856,6 +1901,21 @@ references:
   title: 'Video & Audio: Clifford Geertz - Metadata'
   type: webpage
   URL: https://www.sms.cam.ac.uk/media/1092398
+
+- id: VirtualTourAby
+  accessed:
+    - year: 2024
+      month: 11
+      day: 14
+  citation-key: VirtualTourAby
+  language: en
+  title: >-
+    Virtual Tour - Aby Warburg: Bilderatlas Mnemosyne exhibition at Haus der
+    Kulturen der Welt | The Warburg Institute
+  title-short: Virtual Tour - Aby Warburg
+  type: webpage
+  URL: >-
+    https://warburg.sas.ac.uk/virtual-tour-aby-warburg-bilderatlas-mnemosyne-exhibition-haus-der-kulturen-der-welt
 
 - id: walcherHeinrichBoellAnekdote2016
   citation-key: walcherHeinrichBoellAnekdote2016
