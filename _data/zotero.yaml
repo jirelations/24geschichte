@@ -179,6 +179,28 @@ references:
   URL: >-
     https://www.br.de/mediathek/podcast/radiowissen/pierre-bourdieu-denker-der-feinen-unterschiede/1810844
 
+- id: buelMagicCityMassive1894
+  author:
+    - family: Buel
+      given: James W.
+  citation-key: buelMagicCityMassive1894
+  event-place: St. Louis, Mo.
+  issued:
+    - year: 1894
+  number-of-pages: 1 volume (unpaged)
+  publisher: Historical Publishing Company
+  publisher-place: St. Louis, Mo.
+  source: COinS
+  title: >-
+    The magic city : a massive portfolio of original photographic views of the
+    Great World's Fair, and its treasures of art, including a vivid
+    representation of the famous Midway Plaisance : a photographic and
+    historical representation of the "Magic City" by-the-lake, with its vast
+    treasures of the world's art, reproduced in splendid realism, as it was seen
+    by millions of visitors, in a series of 300 magnificent photographic views
+  title-short: The magic city
+  type: book
+
 - id: dianteillPierreBourdieuSociology2003
   abstract: >-
     Although some of Bourdieu’s most basic concepts have their roots in the
@@ -795,6 +817,38 @@ references:
   URL: >-
     https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.ELIADEM
 
+- id: hansonWorldsCongressReligions1894
+  abstract: >-
+    CHMEXRF copy no. 39088007623507 has bookplate: Donated by the Larry Zim
+    World's Fair collection
+  accessed:
+    - year: 2024
+      month: 11
+      day: 21
+  author:
+    - family: Hanson
+      given: John Wesley
+  call-number: '39088007623507'
+  citation-key: hansonWorldsCongressReligions1894
+  contributor:
+    - literal: Smithsonian Libraries
+  event-place: Chicago
+  issued:
+    - year: 1894
+  language: eng
+  number-of-pages: '1200'
+  publisher: Monarch Book Co.
+  publisher-place: Chicago
+  source: Internet Archive
+  title: >-
+    The World's congress of religions: The addresses and papers delivered before
+    the Parliament, and an abstract of the congresses held in the Art Institute,
+    Chicago, Aug. 25 to Oct. 15, 1893, under the auspices of the World's
+    Columbian Exposition
+  title-short: The World's congress of religions
+  type: book
+  URL: http://archive.org/details/worldscongressr00hans
+
 - id: hellwig-unruhEinsteinReligionsgeschichte2007
   abstract: >-
     Mircea Eliade gehört zu den bedeutendsten Religionsphilosophen des 20.
@@ -1243,6 +1297,30 @@ references:
   type: book
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363265/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
+
+- id: PhotographsWorldsFair1894
+  abstract: '351 leaves : 29 x 33 cm; "Sold by subscription only."'
+  accessed:
+    - year: 2024
+      month: 11
+      day: 21
+  call-number: '39088013421441'
+  citation-key: PhotographsWorldsFair1894
+  event-place: Chicago
+  issued:
+    - year: 1894
+  language: eng
+  number-of-pages: '358'
+  publisher: Werner Co.
+  publisher-place: Chicago
+  source: Internet Archive
+  title: >-
+    Photographs of the World's Fair: An elaborate collection of photographs of
+    the buildings, grounds and exhibits of the World's Columbian Exposition,
+    with a special description of the famous Midway Plaisance
+  title-short: Photographs of the World's Fair
+  type: book
+  URL: http://archive.org/details/photographsworl00worl
 
 - id: pollackHandbuchReligionssoziologie2018
   abstract: >-
