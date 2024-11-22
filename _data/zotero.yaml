@@ -876,6 +876,22 @@ references:
   type: broadcast
   URL: https://www.deutschlandfunk.de/der-einstein-der-religionsgeschichte-100.html
 
+- id: helmStrangestGatheringMen
+  abstract: History Podcast · 5 Seasons · Updated Weekly
+  accessed:
+    - year: 2024
+      month: 11
+      day: 21
+  citation-key: helmStrangestGatheringMen
+  collection-title: HISTORY This Week
+  director:
+    - family: Helm
+      given: Sally
+  language: en-US
+  title: The Strangest Gathering of Men
+  type: broadcast
+  URL: https://podcasts.apple.com/us/podcast/history-this-week/id1493453604
+
 - id: hessischerrundfunkPierreBourdieuFeinen2012
   abstract: >-
     Dokumentation des Hessischen Rundfunks vom 3.11.1983 über den französischen
@@ -1295,6 +1311,33 @@ references:
     Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein
     Verhältnis zum Rationalen
   type: book
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363265/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
+
+- id: ottoKap141926
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  author:
+    - family: Otto
+      given: Rudolf
+  citation-key: ottoKap141926
+  container-title: >-
+    Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein
+    Verhältnis zum Rationalen
+  edition: '14'
+  event-place: Gotha
+  issued:
+    - year: 1926
+  language: de
+  license: http://creativecommons.org/publicdomain/mark/1.0/
+  page: 1-27
+  publisher: Klotz
+  publisher-place: Gotha
+  source: Internet Archive
+  title: Kap. 1-4
+  type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363265/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
 
