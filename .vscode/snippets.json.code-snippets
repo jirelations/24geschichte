@@ -47,11 +47,19 @@
 		],
 		"description": "Add embedded video file to slides"
 	},
+	"figure caption": {
+		/* "scope": "Markdown", */
+		"prefix": "caption",
+		"body": [
+			"<figcaption>\n    ${1:Image:}\n</figcaption>"
+		],
+		"description": "Figure caption for images"
+	},
 	"help": {
 		/* "scope": "Markdown", */
 		"prefix": "help",
 		"body": [
-			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nvideo\tembed video\tAdd embedded video file to slides"
+			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nvideo\tembed video\tAdd embedded video file to slides\ncaption\tFigure caption for images"
 		],
 		"description": "Add review section to slides"
 	}
