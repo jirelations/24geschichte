@@ -55,11 +55,17 @@
 		],
 		"description": "Figure caption for images"
 	},
+	"slide notes": {
+		"prefix": "notes",
+		"body": [
+			"<aside class='notes'>\n\t${1:Notes}\n</aside>"
+			]
+	},
 	"help": {
 		/* "scope": "Markdown", */
 		"prefix": "help",
 		"body": [
-			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nvideo\tembed video\tAdd embedded video file to slides\ncaption\tFigure caption for images"
+			"imgr\timage row include\tAdd div containing row of images\nrvw\treview\tAdd review section to slides\nobj\tobjective\tAdd objective section to slides\nvideo\tembed video\tAdd embedded video file to slides\ncaption\tFigure caption for images\nnotes\tslide notes\tAdd note section to slide only visible in presenter mode"
 		],
 		"description": "Add review section to slides"
 	}
