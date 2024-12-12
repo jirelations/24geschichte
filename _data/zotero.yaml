@@ -817,6 +817,49 @@ references:
   URL: >-
     https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.ELIADEM
 
+- id: haggarCommunitasRevisitedVictor2024
+  abstract: >-
+    Victor Turner's concept of communitas has been used in and beyond
+    anthropology for years in a variety of ways. It is an effective concept for
+    understanding one form of collective human experience, particularly the
+    transcendent emotional experiences in liminal contexts that may stimulate
+    the emergence of a sense of connection and co-humanity. There is immense
+    contemporary value in the concept, however, many key elements are often
+    overlooked and the complexities of ‘communitas’ ignored. This can lead to
+    surface-level or misleading applications which threaten to undermine the
+    utility of the concept. As such, I explore Turner's theoretical
+    understandings and reflections, before considering the diverse ways other
+    scholars have used communitas. I advocate a more nuanced understanding of
+    communitas and investigate how this would benefit our understandings of
+    communitas in contemporary social contexts. I engage with the work of Turner
+    and others to contribute to theoretical discussions of communitas, while
+    also reflecting on the value of concepts and the benefits of both ambiguity
+    and clarity in communicating anthropological knowledge through such
+    concepts.
+  accessed:
+    - year: 2024
+      month: 12
+      day: 12
+  author:
+    - family: Haggar
+      given: Sarah
+  citation-key: haggarCommunitasRevisitedVictor2024
+  container-title: Anthropological Theory
+  DOI: 10.1177/14634996241282143
+  ISSN: 1463-4996
+  issued:
+    - year: 2024
+      month: 11
+      day: 3
+  language: en
+  page: '14634996241282143'
+  publisher: SAGE Publications
+  source: SAGE Journals
+  title: 'Communitas revisited: Victor Turner and the transformation of a concept'
+  title-short: Communitas revisited
+  type: article-journal
+  URL: https://doi.org/10.1177/14634996241282143
+
 - id: hansonWorldsCongressReligions1894
   abstract: >-
     CHMEXRF copy no. 39088007623507 has bookplate: Donated by the Larry Zim
@@ -1853,6 +1896,38 @@ references:
   URL: >-
     https://www.chicagotribune.com/1986/04/23/mircea-eliade-u-of-c-religion-prof-emeritus/
 
+- id: turnerBetwixtLiminalPeriod1987
+  accessed:
+    - year: 2024
+      month: 12
+      day: 12
+  author:
+    - family: Turner
+      given: Victor
+  citation-key: turnerBetwixtLiminalPeriod1987
+  container-title: 'Betwixt and between: Patterns of masculine and feminine initiation'
+  editor:
+    - literal: Louise Carus Mahdi
+    - literal: Steven Foster
+    - literal: Meredith Little
+  issued:
+    - year: 1987
+  language: en
+  note: >-
+    Reprinted from Victer W. Turner. ··Betwixt and Between: The Liminal
+    Period·in Rites de
+
+    Passage." The Proceedings of the American Erhnological Society (1964),
+    Symposium on
+
+    New Approaches to-the Study of Religion. pp. 4-20,
+  page: 3–19
+  source: Google Scholar
+  title: 'Betwixt and between: The liminal period in rites of passage'
+  title-short: Betwixt and between
+  type: chapter
+  URL: http://ereserve.library.utah.edu/Annual/ANTH/4171/Loeb/betwixt.pdf
+
 - id: turnerRitualProcessStructure1969
   accessed:
     - year: 2024
@@ -2186,6 +2261,24 @@ references:
   publisher: Suhrkamp
   publisher-place: Berlin
   title: Werke in einem Band
+  type: book
+
+- id: warmsSacredRealmsEssays2004
+  citation-key: warmsSacredRealmsEssays2004
+  editor:
+    - family: Warms
+      given: Richard L.
+  event-place: New York
+  ISBN: 978-0-19-517550-9
+  issued:
+    - year: 2004
+  language: eng
+  number-of-pages: '480'
+  publisher: Oxford Univ. Press
+  publisher-place: New York
+  source: K10plus ISBN
+  title: 'Sacred realms: essays in religion, belief, and society'
+  title-short: Sacred realms
   type: book
 
 - id: weberProtestantischeEthikUnd1934
