@@ -965,6 +965,24 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=gQSYewA03BU
 
+- id: hillermannVictorWitterTurner2017
+  author:
+    - family: Hillermann
+      given: Hendrik
+  citation-key: hillermannVictorWitterTurner2017
+  edition: 1st ed.
+  event-place: Stuttgart
+  ISBN: 978-3-17-033354-3
+  issued:
+    - year: 2017
+  number-of-pages: 1 Online-Ressource (328 p.)
+  publisher: W. Kohlhammer GmbH
+  publisher-place: Stuttgart
+  source: COinS
+  title: 'Victor Witter Turner : Eine Biografie'
+  title-short: Victor Witter Turner
+  type: book
+
 - id: johnsonMemoryMetaphorAby
   abstract: >-
     The work of German cultural theorist and art historian AbyWarburg
@@ -1928,6 +1946,24 @@ references:
   type: chapter
   URL: http://ereserve.library.utah.edu/Annual/ANTH/4171/Loeb/betwixt.pdf
 
+- id: turnerForestSymbolsAspects2014
+  author:
+    - family: Turner
+      given: Victor
+  citation-key: turnerForestSymbolsAspects2014
+  edition: 15. Nachdr.
+  event-place: Ithaca, NY [u.a.]
+  ISBN: 978-0-8014-9101-6
+  issued:
+    - year: 2014
+  number-of-pages: XII, 405 S.
+  publisher: Cornell Univ. Pr.
+  publisher-place: Ithaca, NY [u.a.]
+  source: COinS
+  title: 'The forest of symbols : aspects of Ndembu ritual'
+  title-short: The forest of symbols
+  type: book
+
 - id: turnerRitualProcessStructure1969
   accessed:
     - year: 2024
@@ -1950,6 +1986,24 @@ references:
   source: Open WorldCat
   title: 'The ritual process: structure and anti-structure'
   title-short: The ritual process
+  type: book
+
+- id: turnerRitualStrukturUnd2005
+  author:
+    - family: Turner
+      given: Victor
+  citation-key: turnerRitualStrukturUnd2005
+  edition: Neuauflage
+  event-place: Frankfurt am Main
+  ISBN: 978-3-593-37762-9
+  issued:
+    - year: 2005
+  number-of-pages: 209 Seiten
+  publisher: Campus-Verlag
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: 'Das Ritual : Struktur und Anti-Struktur'
+  title-short: Das Ritual
   type: book
 
 - id: tylor11Animismus1873
