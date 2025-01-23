@@ -1,5 +1,35 @@
 ---
 references:
+- id: anettekolbMaxWeberEntzauberung2006
+  abstract: >-
+    Leben und Werk des Sozialwissenschaftlers Max Weber.
+
+    „Die zunehmende Intellektualisierung und Rationalisierung bedeutet also
+    nicht eine zunehmende allgemeine Kenntnis der Lebensbedingungen, unter denen
+    man steht. Sondern sie bedeutet etwas anderes: das Wissen davon oder den
+    Glauben daran: daß man, wenn man nur wollte, es jederzeit erfahren könnte,
+    daß es also prinzipiell keine geheimnisvollen unberechenbaren Mächte gebe,
+    die da hineinspielen, daß man vielmehr alle Dinge – im Prinzip – durch
+    Berechnen beherrschen könne. Das aber bedeutet: die Entzauberung der Welt.
+    Nicht mehr, wie der Wilde, für den es solche Mächte gab, muss man zu
+    magischen Mitteln greifen, um die Geister zu beherrschen oder zu erbitten.
+    Sondern technische Mittel und Berechnung leisten das. Dies vor allem
+    bedeutet die Intellektualisierung als solche."
+  accessed:
+    - year: 2025
+      month: 1
+      day: 23
+  citation-key: anettekolbMaxWeberEntzauberung2006
+  director:
+    - literal: Anette Kolb
+  issued:
+    - year: 2006
+  language: ger
+  source: Internet Archive
+  title: ᴴᴰMax Weber - Die Entzauberung der Welt
+  type: motion_picture
+  URL: http://archive.org/details/maxweber-dieentzauberungderwelt
+
 - id: bernerMirceaEliade190719861997
   accessed:
     - year: 2024
@@ -1002,6 +1032,27 @@ references:
   type: book
   URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/10.7591/j.ctt2jbph1
 
+- id: kaeslerMaxWeberEinfuehrung2014
+  author:
+    - family: Käsler
+      given: Dirk
+  citation-key: kaeslerMaxWeberEinfuehrung2014
+  edition: 4., aktualisierte Aufl.
+  event-place: Frankfurt am Main
+  ISBN: 978-3-593-42309-8
+  issued:
+    - year: 2014
+  language: de
+  number-of-pages: 1 Online-Ressource (332 Seiten)
+  publisher: Campus Verlag
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: 'Max Weber : Eine Einführung in Leben, Werk und Wirkung'
+  title-short: Max Weber
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fnbn-resolving.org%2Furn%3Anbn%3Ade%3Ahebis%3A30%3Aepflicht-34914
+
 - id: karsteinPierreBourdieuReligioese2019
   accessed:
     - year: 2024
@@ -1250,6 +1301,24 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363265/CourseNode/93668888136198/05-Masuzawa-World+Religions.pdf
+
+- id: MaxWeberRevisited2023
+  accessed:
+    - year: 2025
+      month: 1
+      day: 23
+  citation-key: MaxWeberRevisited2023
+  ISBN: 978-3-7799-7613-4
+  issued:
+    - year: 2023
+      month: 7
+      day: 12
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: 'Max Weber revisited: Zur Aktualität eines Klassikers'
+  title-short: Max Weber revisited
+  type: book
+  URL: >-
+    https://content.select.com/de/portal/media/view/63f499c3-e03c-4f41-b7a3-40f7ac1b000f
 
 - id: meadBaliPersonalityFormation2001
   accessed:
@@ -1762,6 +1831,27 @@ references:
   type: article-journal
   URL: https://www.journals.uchicago.edu/doi/10.1086/462686
   volume: '12'
+
+- id: steinertMaxWebersUnwiderlegbare913
+  author:
+    - family: Steinert
+      given: Heinz
+  citation-key: steinertMaxWebersUnwiderlegbare913
+  event-place: Frankfurt am Main
+  ISBN: 978-3-593-40976-4
+  issued:
+    - year: 913
+  number-of-pages: 1 Online-Ressource (332 Seiten)
+  publisher: Campus Verlag
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: >-
+    Max Webers unwiderlegbare Fehlkonstruktionen : Die protestantische Ethik und
+    der Geist des Kapitalismus
+  title-short: Max Webers unwiderlegbare Fehlkonstruktionen
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.content-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783593409764
 
 - id: strenskiThinkingReligionReader2006
   call-number: BL41 .T49 2006
@@ -2350,16 +2440,42 @@ references:
   title: Die protestantische Ethik und der Geist des Kapitalismus
   type: book
 
+- id: weberProtestantischeEthikUnd2016
+  author:
+    - family: Weber
+      given: Max
+  citation-key: weberProtestantischeEthikUnd2016
+  edition: 1st ed. 2016
+  event-place: Wiesbaden
+  ISBN: 978-3-658-07432-6
+  ISSN: 2626-2363
+  issued:
+    - year: 2016
+  number-of-pages: 1 Online-Ressource (V, 232 Seiten)
+  publisher: Springer Fachmedien Wiesbaden
+  publisher-place: Wiesbaden
+  source: COinS
+  title: >-
+    Die protestantische Ethik und der "Geist" des Kapitalismus : Neuausgabe der
+    ersten Fassung von 1904-05 mit einem Verzeichnis der wichtigsten Zusätze und
+    Veränderungen aus der zweiten Fassung von 1920. Herausgegeben und
+    eingeleitet von Klaus Lichtblau und Johannes Weiß
+  title-short: Die protestantische Ethik und der "Geist" des Kapitalismus
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-658-07432-6
+
 - id: weberProtestantischeEthikUnd2021
   accessed:
     - year: 2024
       month: 7
       day: 9
+  author:
+    - family: Weber
+      given: Max
   citation-key: weberProtestantischeEthikUnd2021
   collection-title: Studienausgabe der Max-Weber-Gesamtausgabe / Max Weber
   contributor:
-    - family: Weber
-      given: Max
     - family: Schluchter
       given: Wolfgang
     - family: Bube
