@@ -26,7 +26,7 @@ references:
     - year: 2006
   language: ger
   source: Internet Archive
-  title: ᴴᴰMax Weber - Die Entzauberung der Welt
+  title: Max Weber - Die Entzauberung der Welt
   type: motion_picture
   URL: http://archive.org/details/maxweber-dieentzauberungderwelt
 
@@ -890,6 +890,50 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/14634996241282143
 
+- id: hainzInterventionInterpretationJacques2008
+  accessed:
+    - year: 2025
+      month: 1
+      day: 30
+  author:
+    - family: Hainz
+      given: Martin A
+  citation-key: hainzInterventionInterpretationJacques2008
+  container-title: Derrida und danach?
+  DOI: 10.1007/978-3-531-91822-8_3
+  editor:
+    - family: Thuswaldner
+      given: Gregor
+  event-place: Wiesbaden
+  ISBN: 978-3-8350-6036-4 978-3-531-91822-8
+  issued:
+    - year: 2008
+  language: de
+  page: 33-51
+  publisher: VS Verlag für Sozialwissenschaften
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Intervention — Interpretation Zu Jacques Derridas Dekonstruktion
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/content/pdf/10.1007/978-3-531-91822-8_3
+
+- id: hammerschlagBrokenTabletsLevinas2016
+  author:
+    - family: Hammerschlag
+      given: Sarah
+  citation-key: hammerschlagBrokenTabletsLevinas2016
+  ISBN: 978-0-231-17059-8
+  issued:
+    - year: 2016
+  number-of-pages: 270 pages
+  source: COinS
+  title: 'Broken Tablets : Levinas, Derrida, and the Literary Afterlife of Religion'
+  title-short: Broken Tablets
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D4588199
+
 - id: hansonWorldsCongressReligions1894
   abstract: >-
     CHMEXRF copy no. 39088007623507 has bookplate: Donated by the Larry Zim
@@ -921,6 +965,16 @@ references:
   title-short: The World's congress of religions
   type: book
   URL: http://archive.org/details/worldscongressr00hans
+
+- id: hartzMaxWeberProtestantische
+  author:
+    - family: Hartz
+      given: Ronald
+  citation-key: hartzMaxWeberProtestantische
+  language: de
+  source: Zotero
+  title: Max Weber - "Die protestantische Ethik und der Geist des Kapitalismus"
+  type: article-journal
 
 - id: hellwig-unruhEinsteinReligionsgeschichte2007
   abstract: >-
@@ -1643,6 +1697,32 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1886942
 
+- id: reynoldsUnderstandingDerrida2004
+  author:
+    - family: Reynolds
+      given: Jack
+    - family: Roffe
+      given: Jonathan
+    - family: Reynolds
+      given: Jack
+    - family: Roffe
+      given: Jonathan
+  citation-key: reynoldsUnderstandingDerrida2004
+  edition: 1st ed.
+  event-place: London
+  ISBN: 978-1-4411-7678-3
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: 1 Online-Ressource (184 pages)
+  publisher: Bloomsbury Publishing Plc
+  publisher-place: London
+  source: COinS
+  title: Understanding Derrida
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D742434
+
 - id: riesebrodtFundamentalismusAlsPatriarchalische1990
   accessed:
     - year: 2024
@@ -1929,6 +2009,29 @@ references:
   URL: >-
     https://academic-oup-com.proxy.ub.uni-frankfurt.de/socrel/article/71/1/133/1623933
   volume: '71'
+
+- id: thuswaldnerDerridaUndDanach2008
+  citation-key: thuswaldnerDerridaUndDanach2008
+  collection-title: SpringerLink Bücher
+  DOI: 10.1007/978-3-531-91822-8
+  edition: 1st ed. 2008
+  editor:
+    - family: Thuswaldner
+      given: Gregor
+  event-place: Wiesbaden
+  ISBN: 978-3-531-91822-8
+  issued:
+    - year: 2008
+  language: ger
+  number-of-pages: '195'
+  publisher: VS Verlag für Sozialwissenschaften
+  publisher-place: Wiesbaden
+  source: K10plus ISBN
+  title: Derrida und danach? Literaturtheoretische Diskurse der Gegenwart
+  title-short: Derrida und danach?
+  type: book
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-531-91822-8
 
 - id: tremlUberlegungenEntstehungBegriff2018
   abstract: >-
@@ -2441,10 +2544,38 @@ references:
   type: book
 
 - id: weberProtestantischeEthikUnd2016
+  accessed:
+    - year: 2025
+      month: 1
+      day: 30
   author:
     - family: Weber
       given: Max
   citation-key: weberProtestantischeEthikUnd2016
+  DOI: 10.1007/978-3-658-07432-6
+  editor:
+    - family: Lichtblau
+      given: Klaus
+    - family: Weiß
+      given: Johannes
+  event-place: Wiesbaden
+  ISBN: 978-3-658-07431-9 978-3-658-07432-6
+  issued:
+    - year: 2016
+  language: de
+  license: http://www.springer.com/tdm
+  publisher: Springer Fachmedien Wiesbaden
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Die protestantische Ethik und der "Geist" des Kapitalismus
+  type: book
+  URL: http://link.springer.com/10.1007/978-3-658-07432-6
+
+- id: weberProtestantischeEthikUnd2016a
+  author:
+    - family: Weber
+      given: Max
+  citation-key: weberProtestantischeEthikUnd2016a
   edition: 1st ed. 2016
   event-place: Wiesbaden
   ISBN: 978-3-658-07432-6
