@@ -1086,6 +1086,48 @@ references:
   type: book
   URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/10.7591/j.ctt2jbph1
 
+- id: josselsonHermeneuticsFaithHermeneutics2004
+  abstract: >-
+    Ricoeur distinguishes between two forms of hermeneutics: a hermeneutics of
+    faith which aims to restore meaning to a text and a hermeneutics of
+    suspicion which attempts to decode meanings that are disguised. In this
+    paper, his distinction is applied to interpretive stances in narrative
+    research. From the point of view of a hermeneutics of faith, the
+    interpretive effort is to examine the various messages inherent in an
+    interview text, giving “voice” in various ways to the participant(s), while
+    the researcher working from the vantage point of the hermeneutics of
+    suspicion problematizes the participants' narrative and “decodes” meaning
+    beyond the text. Examples are offered of narrative research from each point
+    of view and the implications of working from each stance are explored. Each
+    interpretive position also effects both reflexivity and ethics, and these
+    matters are also discussed. Finally, the implications and possiblities of
+    combining these interpretive positions are considered. (Hermeneutics,
+    Ricoeur, Narrative Analysis, Interpretive Stance, Reflexivity)
+  accessed:
+    - year: 2025
+      month: 2
+      day: 6
+  author:
+    - family: Josselson
+      given: Ruthellen
+  citation-key: josselsonHermeneuticsFaithHermeneutics2004
+  container-title: Narrative Inquiry
+  container-title-short: NI
+  DOI: 10.1075/ni.14.1.01jos
+  ISSN: 1387-6740, 1569-9935
+  issue: '1'
+  issued:
+    - year: 2004
+      month: 7
+      day: 1
+  language: en
+  page: 1-28
+  source: DOI.org (Crossref)
+  title: The hermeneutics of faith and the hermeneutics of suspicion
+  type: article-journal
+  URL: http://www.jbe-platform.com/content/journals/10.1075/ni.14.1.01jos
+  volume: '14'
+
 - id: kaeslerMaxWeberEinfuehrung2014
   author:
     - family: Käsler
@@ -1251,6 +1293,71 @@ references:
   type: article-journal
   URL: https://www.journals.uchicago.edu/doi/10.14318/hau1.1.012
   volume: '1'
+
+- id: lewisCambridgeIntroductionModernism2007
+  abstract: >-
+    More than a century after its beginnings, modernism still has the power to
+    shock, alienate or challenge readers. Modernist art and literature remain
+    thought of as complex and difficult. This introduction explains in a
+    readable, lively style how modernism emerged, how it is defined, and how it
+    developed in different forms and genres. Pericles Lewis offers students a
+    survey of literature and art in England, Ireland and Europe at the beginning
+    of the twentieth century. He also provides an overview of critical thought
+    on modernism and its continuing influence on the arts today, reflecting the
+    interests of current scholarship in the social and cultural contexts of
+    modernism. The comparative perspective on Anglo-American and European
+    modernism shows how European movements have influenced the development of
+    English-language modernism. Illustrated with works of art and featuring
+    suggestions for further study, this is the ideal introduction to
+    understanding and enjoying modernist literature and art.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 6
+  author:
+    - family: Lewis
+      given: Pericles
+  citation-key: lewisCambridgeIntroductionModernism2007
+  DOI: 10.1017/CBO9780511803055
+  edition: '1'
+  ISBN: 978-0-521-53527-4 978-0-521-82809-3 978-0-511-80305-5
+  issued:
+    - year: 2007
+      month: 5
+      day: 3
+  language: en
+  license: https://www.cambridge.org/core/terms
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: The Cambridge Introduction to Modernism
+  type: book
+  URL: https://www.cambridge.org/core/product/identifier/9780511803055/type/book
+
+- id: lewisIntroductionHermeneuticsSuspicion2007
+  accessed:
+    - year: 2025
+      month: 2
+      day: 6
+  citation-key: lewisIntroductionHermeneuticsSuspicion2007
+  container-author:
+    - family: Lewis
+      given: Pericles
+  container-title: The Cambridge Introduction to Modernism
+  DOI: https://doi.org/10.1017/CBO9780511803055.002
+  edition: '1'
+  ISBN: 978-0-521-53527-4 978-0-521-82809-3 978-0-511-80305-5
+  issued:
+    - year: 2007
+      month: 5
+      day: 3
+  language: en
+  license: https://www.cambridge.org/core/terms
+  page: 17-26
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: Introduction. Hermeneutics of Suspicion
+  type: chapter
+  URL: https://www.cambridge.org/core/product/identifier/9780511803055/type/book
 
 - id: magliolaDeconstructingLifeWorldsBuddhism1997
   abstract: >-
@@ -1748,6 +1855,33 @@ references:
   title-short: Fundamentalismus als patriarchalische Protestbewegung
   type: book
 
+- id: robertsonHermeneuticsSuspicionScientology2017
+  accessed:
+    - year: 2025
+      month: 2
+      day: 6
+  author:
+    - family: Robertson
+      given: David G.
+  citation-key: robertsonHermeneuticsSuspicionScientology2017
+  container-title: Handbook of Scientology
+  DOI: 10.1163/9789004330542_013
+  editor:
+    - family: Lewis
+      given: James R.
+  ISBN: 978-90-04-32871-6 978-90-04-33054-2
+  issued:
+    - year: 2017
+      month: 1
+      day: 1
+  page: 300-318
+  publisher: BRILL
+  source: DOI.org (Crossref)
+  title: 'Hermeneutics of Suspicion: Scientology and Conspiracism'
+  title-short: Hermeneutics of Suspicion
+  type: chapter
+  URL: https://doi.org/10.1163/9789004330542_013
+
 - id: roetherReligionsphilosophMirceaEliade2018
   abstract: >-
     Der rumänische Religionsphilosoph Mircea Eliade gilt als der "Einstein der
@@ -1848,6 +1982,23 @@ references:
   title-short: Auf der Schwelle zwischen Animismus und Spiritismus
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB368268454
+
+- id: scott-baumannRicoeurHermeneuticsSuspicion2009
+  author:
+    - family: Scott-Baumann
+      given: Alison (Verfasser)
+  citation-key: scott-baumannRicoeurHermeneuticsSuspicion2009
+  edition: 1st ed.
+  event-place: Ann Arbor, Michigan
+  ISBN: 978-1-4411-3392-2
+  issued:
+    - year: 2009
+  number-of-pages: 1 Online-Ressource (248 pages)
+  publisher: Bloomsbury Publishing PLC
+  publisher-place: Ann Arbor, Michigan
+  source: COinS
+  title: Ricoeur Hermeneutics Suspicion
+  type: book
 
 - id: ShockSavageEdward2015
   abstract: >-
