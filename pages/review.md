@@ -7,6 +7,8 @@ permalink: /review
 # Überblick
 ___
 
+Eure Ergänzungen: <https://etherpad.studiumdigitale.uni-frankfurt.de/p/24geschichte14>
+
 ## Ursprünge (2-4)
 
 ### 2. Edward Tylor: Wie entwickelt sich Kultur?
@@ -55,11 +57,57 @@ ___
 ### 5. Weltreligionen: Parlament der Weltreligionen: Wie entstand der Begriff Weltreligion?
 **🧭 Lernziel:** Die Erfindung des Begriffs "Weltreligionen" mit seinen Konnotationen im europäischen Diskurs skizzieren können.
 
+- Begriff Pluralismus
+- Begriff Weltreligionen
+  - Als Ersatz in Europa/N. Amerika für "Christen, Juden, Muslimen und andere"
+  - Welche 8-12 Religionen kamen in einer Auflistung vor? Warum?
+  - In wie weit ist der Begriff "Weltreligionen" eurozentrisch?
+  - Wie wurde das Christentum im Vergleich zu Judentum und Islam (anhand der Philologie) zugeordnet?
+- Parlament der Weltreligionen (1893 in Chicago)
+  - Welche Ziele? 
+  - Welche Auswirkungen?
+- Problematische Dynamiken bei der Typologie
+  - subsuming
+  - essentializing
+  - universalizing
+  - text-centering
+
 ### 6.-7. Phänomenologie: Rudolf Otto & Mircea Eliade: Was ist das Heilige?
 **🧭 Lernziel:** Phänomenologische Ansätze am Beispiel von Eliades und Ottos Konzeptionen des „Heiligen“ erkennen und anwenden.
 
+- Rudolf Otto
+  - _Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen_
+    - Mysterium tremendum
+    - Mysterium fascinosum
+    - das Numinose (das Heilige minus das Sittliche)
+  - Der Bedarf "religiös-musikalisch" zu sein
+- Mircea Eliade (1907-1986)
+  - _Das Heilige und das Profane_ (1957/1965)
+    - Epiphanie > Hierophanie
+    - homo religiosus
+    - das Heilige als ein "Bruch" im Profane. Das Heilige als Mittelpunkt.
+    - Entsakralisierung
+  - _Encyclopedia of Religion_
+- Was ist hier der "phänomenologischer" Ansatz? (Religion als Phänomen zu betrachten)
+
 ### 8. Strukturfunktionalismus: Mary Douglas: Welche Rolle spielen Reinheit und Gefährdung? 
 **🧭 Lernziel:** Reinheit als Symbolsystem im strukturfunktionalistischen Ansatz von Mary Douglas erklären.
+
+- Mary Douglas (1921-2007)
+  - *Purity and Danger*
+    - Tabus bzw. Heiligkeit als System, nicht Einzelregeln
+    - z.B. in Leviticus 3, _nicht_
+      - Gesundheit/Hygiene
+      - willkürlich
+      - nur als Abgrenzung vom Fremdes
+      - allegorisch
+    - sondern Heiligkeit als
+      - separat/abgesondert _und_
+      -  vollständig/heil
+      -  gehört vollständig zu einer Kategorie, ist kein Mischform
+  - Dissertation zu Lale-Volk in belgischen Kongo
+- Strukturfunktionalismus
+  - Émile Durkheim (1858–1917): Religionsdefinition
 
 ### 9. Strukturfunktionalismus: Victor und Edith Turner: Wie gehen Menschen symbolisch miteinander um?
 **🧭 Lernziel:** Schildern wie Victor und Edith Turner durch ethnografische Feldforschung zu Ritualen als Symbolsysteme und insbesondere zum Konzept der Liminalität gelangten.
