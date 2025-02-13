@@ -21,14 +21,34 @@ ___
   - Was waren sein
     - seine Vorannahmen? (über Urreligion und "primitive" Kulturen)
     - seine Methoden? (Offenbarung vs. Berichte)
-    - sein Argument (Erfahrungen: Tod, Träume, Visionen > Seele/Geist > Animismus > weitere religiöse Entwicklungen)?
+    - sein Argument? (Erfahrungen: Tod, Träume, Visionen > Seele/Geist > Animismus > weitere religiöse Entwicklungen)
   - "Survivals" als wichtiger Begriff
 
 ### 3. James Frazer: Was hat Magie mit Religion zu tun?
 **🧭 Lernziel:** Frazers Versuch, alle Religionen auf eine gemeinsame Wurzel zurückzuführen, als andauernd prägend wahrzunehmen.
 
+- James Frazer (1854-1941)
+  - Wie versteht Frazer die Beziehungen zwischen Magie, Religion und Wissenschaft?
+  - Was ist seine Bestimmung der Religion?
+  - _The Golden Bough_
+    - Popularität davon
+    - Scheinbare Fragestellung über das Ermorden des Priesters
+    - Quellen/Belege dafür
+    - Argument über die Herkunft (implizit: auch die Zukunft) der Religion
+
 ### 4. Aby Warburg: Wie lässt sich Religion anhand von Symbolen verstehen?
 **🧭 Lernziel:** Erläutern können, wie Warburgs Interesse an symbolischen Bedeutungen dazu geführt hat, so genannte "primitive" Religionen nicht nur als rückständigen Aberglauben zu betrachten.
+
+- Aby Warburg (1866-1929)
+  - Studium Kunstgeschichte, Dissertation zur Ikonographie
+  - 1895-1896 Beobachtungen von Ritualen in Pueblo Dörfer unter den Hopi und Cochiti (New Mexico & Arizona)
+  - Schlangenritual
+    - Was meint Warburg mit dem Wort "primitiv"?
+    - Welche Symbole versucht Warburg im Schlangenritual zu interpretieren? Primitive Symbole haben als bedeutungsvolle Elemente auch in europäischen Kulturen überlebt.
+    - Welche Aspekte seiner Vorgehensweise als Forscher könnten aus ethischer oder wissenschaftlicher Sicht kritisch betrachtet werden?
+  - Bilderatlas Mnemosyne
+    - Wie sieht man hier seine Interesse an Symbolen?
+  - Eine Wende? Such nach Bedeutung, nicht nur Herkunft/Entwicklung
 
 ## Paradigmen (5-10)
 
